@@ -1,0 +1,7 @@
+{
+  "project_id" : "libjenkins",
+  "load" : [
+    "/home/andrew/workspace/phabricator/phabricator/src/",
+    "/home/andrew/workspace/phabricator/libphutil/src/"
+  ]
+}
